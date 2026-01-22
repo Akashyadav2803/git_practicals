@@ -1,3 +1,4 @@
-print("Hello guys")
 
-print("Welcome to git practical")
+
+
+print("lets start now")
